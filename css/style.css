@@ -208,7 +208,7 @@ p{
     background: #FFEED8;
 }
 .pic__div img{
-    padding-top: 36px;
+    margin-top: 36px;
     padding: 0 96px;
 }
 .pic__div h4{
@@ -216,8 +216,10 @@ p{
     color: var(--coffee, #603809);
     font-size: 28px;
     font-weight: 700;
+    margin-top: 10px;
 }
 .pic__div p{
+    margin-top: 10px;
     margin-left: 56px;
     text-align: center;
     width: 176px;
